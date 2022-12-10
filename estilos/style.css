@@ -38,3 +38,7 @@ body {
     border: 2px solid var(--branco-principal);
 }
 
+.conteiner__aviso {
+    font-size: 12px;
+}
+
