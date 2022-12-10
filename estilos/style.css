@@ -19,3 +19,8 @@ body {
 .conteiner {
     height: 100vh;
 }
+
+.conteiner__botao {
+    background-color: var(--botao-azul);
+}
+
