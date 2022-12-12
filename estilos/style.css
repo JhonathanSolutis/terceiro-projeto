@@ -31,6 +31,10 @@ body {
     font-weight: 700;
 }
 
+.conteiner__imagem {
+    margin: 1em 2em 0;
+}
+
 .conteiner__botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
