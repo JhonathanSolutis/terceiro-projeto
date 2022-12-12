@@ -1,3 +1,4 @@
+/*Variáveis*/
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
@@ -6,6 +7,7 @@
     --fonte-principal: 'Inter';
 }
 
+/*Corpo da Página*/
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
@@ -14,6 +16,7 @@ body {
     font-weight: 400;
 }
 
+/*Header - Cabeçalho da Página*/
 .principal {
     background-image: url("../imagens/Background.png");
     background-repeat: no-repeat;
@@ -58,4 +61,11 @@ body {
     font-size: 12px;
     color: var(--cinza-secundario);
 }
+
+/*Main - Conteúdo da Pagina*/
+.secundario__imagem {
+    width: 80%;
+}
+
+
 
