@@ -26,6 +26,10 @@ body {
     grid-template-columns: 50% 50%;
 }
 
+.conteiner__caixa {
+    margin: 0 1em;
+}
+
 .titulo__principal {
     font-size: 28px;
     font-weight: 700;
