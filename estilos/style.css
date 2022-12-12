@@ -63,6 +63,10 @@ body {
 }
 
 /*Main - Conteúdo da Pagina*/
+.secundario {
+    align-items: center;
+}
+
 .secundario__imagem {
     width: 80%;
 }
