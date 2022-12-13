@@ -84,4 +84,12 @@ body {
 }
 
 /*Main - Conteúdo da Pagina - Bloco 02*/
+.conteiner__descricao{
+    padding: 2em;
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
 
