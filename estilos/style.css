@@ -117,4 +117,9 @@ body {
     color: var(--branco-principal);
 }
 
+/*Footer*/
+.rodape {
+    text-align: center;
+}
+
 
