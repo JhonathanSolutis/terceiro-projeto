@@ -62,7 +62,7 @@ body {
     color: var(--cinza-secundario);
 }
 
-/*Main - Conteúdo da Pagina*/
+/*Main - Conteúdo da Pagina - Bloco 01*/
 .secundario {
     align-items: center;
     margin: 0 10em;
@@ -82,4 +82,6 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+/*Main - Conteúdo da Pagina - Bloco 02*/
 
