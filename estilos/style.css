@@ -98,6 +98,7 @@ body {
 /*Main - Conteúdo da Pagina - Bloco 04*/
 .dispositivo__lista {
     display: flex;
+    justify-content: center;
 }
 
 
