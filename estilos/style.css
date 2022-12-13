@@ -96,6 +96,10 @@ body {
 /*Main - Conteúdo da Pagina - Bloco 03 (Não utilizado nova class)*/
 
 /*Main - Conteúdo da Pagina - Bloco 04*/
+.dispositivos {
+    text-align: center;
+}
+
 .dispositivo__lista {
     display: flex;
     justify-content: center;
