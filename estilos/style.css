@@ -103,11 +103,17 @@ body {
 .dispositivo__titulo {
     font-size: 48px;
     font-weight: 700;
+    color: var(--branco-principal);
 }
 
 .dispositivo__lista {
     display: flex;
     justify-content: center;
+}
+
+.lista__item {
+    font-size: 32px;
+    color: var(--branco-principal);
 }
 
 
